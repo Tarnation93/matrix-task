@@ -1,0 +1,20 @@
+{
+  "name": "matrix-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "matrix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarnation93/matrix-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarnation93/matrix-task/issues"
+  },
+  "homepage": "https://github.com/Tarnation93/matrix-task#readme"
+}
